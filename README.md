@@ -1,4 +1,4 @@
-# JupyterLite for Chan Lab efforts
+# JupyterLite for efforts related to Chan Lab utilities
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://fomightez.github.io/JLiteCL/lab/index.html?fromURL=https://raw.githubusercontent.com/fomightez/PubMed_Central_ID_Converter_for_humans/refs/heads/main/notebooks/jupyterlite_demo.ipynb)
 
